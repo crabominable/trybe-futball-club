@@ -1,0 +1,1 @@
+{"version":3,"file":"ErrorCatcherMiddleware.js","sourceRoot":"","sources":["../../src/middlewares/ErrorCatcherMiddleware.ts"],"names":[],"mappings":";;AAEA,MAAM,YAAY;IAChB,YAAmB,eAA2B,EAAS,OAAe;QAAnD,oBAAe,GAAf,eAAe,CAAY;QAAS,YAAO,GAAP,OAAO,CAAQ;IAAG,CAAC;CAC3E;AAED,kBAAe,YAAY,CAAC"}

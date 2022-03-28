@@ -1,0 +1,4 @@
+shelljs
+@types/shelljs
+bcryptjs
+-D @types/bcryptjs
